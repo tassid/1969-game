@@ -6,8 +6,22 @@ Jogo feito com C/C++ e a biblioteca Allegro como projeto final da disciplina de 
 
 <img src="https://user-images.githubusercontent.com/84099851/188033811-e8cb0685-ea42-4efb-b422-f79797249dfe.png" width="320" height="170">
 
-## Setup & Run
+## Setup & Run - Windows 10:
 
+1. Baixe o arquivo ```devcpp-4.9.9.3_setup.exe``` localizado na pasta ```setup``` e execute como admin.
+2. Após instalado com sucesso, abra o DevC++ e vá na aba ```Tools```>```Compiler Options```
+3. Inclua ```-std=c99``` nos campos e clique em **salvar**:
+
+<img src="https://user-images.githubusercontent.com/84099851/188036383-5d0ad563-3b66-4145-8881-848c850c6f6f.png" width="350" height="300">
+
+4. Baixe o projeto como zip ```1969.zip``` e extraia seus arquivos.
+5. Abra o projeto na aba ```File```>```Open project or file``` e abra o arquivo ```1969.dev```
+
+<img src="https://user-images.githubusercontent.com/84099851/188036775-2694cc06-65b6-4d61-b67e-19aad2206937.png" width="500" height="300">
+
+
+7. Execute em ```Compile and Run``` ou tecla F9.
+8. Aproveite o game!
 
 ## Capturas do jogo:
 <img src="https://user-images.githubusercontent.com/84099851/188033887-2daaed9e-ad58-4a31-8b26-cb158604163e.png" width="640" height="360">
