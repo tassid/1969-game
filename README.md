@@ -24,6 +24,7 @@ Jogo feito com C/C++ e a biblioteca Allegro como projeto final da disciplina de 
 
 1.7 Clique em ```Next```>```Next```>```Install``` e instale o pack da biblioteca Allegro.
 
+
 2 . Rodando o game
 
 2.1 Baixe o projeto como zip ```1969.zip``` e extraia seus arquivos.
