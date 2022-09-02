@@ -29,11 +29,13 @@ Jogo feito com C/C++ e a biblioteca Allegro como projeto final da disciplina de 
 2 . Rodando o game
 
 2.1 Baixe o projeto como zip ```1969.zip``` e extraia seus arquivos.
+
 2.2 Abra o projeto na aba ```File```>```Open project or file``` e abra o arquivo ```1969.dev```
 
 <img src="https://user-images.githubusercontent.com/84099851/188036775-2694cc06-65b6-4d61-b67e-19aad2206937.png" width="500" height="300">
 
 2.3 Execute em ```Compile and Run``` ou tecla F9.
+
 2.4 Aproveite!
 
 ## Capturas do jogo:
