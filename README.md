@@ -8,7 +8,7 @@ Jogo feito com C/C++ e a biblioteca Allegro como projeto final da disciplina de 
 
 ## Setup & Run - Windows 10
 
-1. Configurando o DevC++
+1 . Configurando o DevC++
 
 1.1 Baixe o arquivo ```devcpp-4.9.9.3_setup.exe``` localizado na pasta ```setup``` e execute como admin.
 1.2 Após instalado com sucesso, abra o DevC++ e vá na aba ```Tools```>```Compiler Options```
@@ -24,7 +24,7 @@ Jogo feito com C/C++ e a biblioteca Allegro como projeto final da disciplina de 
 
 1.7 Clique em ```Next```>```Next```>```Install``` e instale o pack da biblioteca Allegro.
 
-2. Rodando o game
+2 . Rodando o game
 
 2.1 Baixe o projeto como zip ```1969.zip``` e extraia seus arquivos.
 2.2 Abra o projeto na aba ```File```>```Open project or file``` e abra o arquivo ```1969.dev```
