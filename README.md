@@ -4,7 +4,7 @@ O ano é 1969, os humanos chegaram na lua pela primeira vez na história. Como d
 
 Jogo feito com C/C++ e a biblioteca Allegro como projeto final da disciplina de Computação 1.
 
-<img src="https://user-images.githubusercontent.com/84099851/188033811-e8cb0685-ea42-4efb-b422-f79797249dfe.png" width="640" height="360">
+<img src="https://user-images.githubusercontent.com/84099851/188033811-e8cb0685-ea42-4efb-b422-f79797249dfe.png" width="320" height="170">
 
 ## Setup & Run
 
