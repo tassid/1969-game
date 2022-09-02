@@ -6,8 +6,11 @@ Jogo feito com C/C++ e a biblioteca Allegro como projeto final da disciplina de 
 
 <img src="https://user-images.githubusercontent.com/84099851/188033811-e8cb0685-ea42-4efb-b422-f79797249dfe.png" width="320" height="170">
 
-## Setup & Run
+## Setup & Run - Windows 10:
 
+1. Baixe o arquivo ```devcpp-4.9.9.3_setup.exe``` localizado na pasta ```setup``` e execute como admin.
+
+2. 
 
 ## Capturas do jogo:
 <img src="https://user-images.githubusercontent.com/84099851/188033887-2daaed9e-ad58-4a31-8b26-cb158604163e.png" width="640" height="360">
