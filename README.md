@@ -11,7 +11,9 @@ Jogo feito com C/C++ e a biblioteca Allegro como projeto final da disciplina de 
 1. Baixe o arquivo ```devcpp-4.9.9.3_setup.exe``` localizado na pasta ```setup``` e execute como admin.
 2. Após instalado com sucesso, abra o DevC++ e vá na aba ```Tools```>```Compiler Options```
 3. Inclua ```-std=c99``` nos campos e clique em **salvar**:
-![image](https://user-images.githubusercontent.com/84099851/188036383-5d0ad563-3b66-4145-8881-848c850c6f6f.png)
+
+<img src="https://user-images.githubusercontent.com/84099851/188036383-5d0ad563-3b66-4145-8881-848c850c6f6f.png" width="640" height="360">
+
 4. Baixe o projeto como zip ```1969.zip``` e extraia seus arquivos.
 5. Abra o projeto na aba ```File```>```Open project or file``` e abra o arquivo ```1969.dev```
 6. Execute em ```Compile and Run``` ou tecla F9.
